@@ -40,6 +40,11 @@ I'm a passionate software developer specializing in building Android application
      <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" title="Swift">
     <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
 </a>
+     <!-- postman -->
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="Postman">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
