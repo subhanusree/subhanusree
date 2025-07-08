@@ -37,6 +37,9 @@ I'm a passionate software developer specializing in building Android application
     <a href="https://www.php.net" target="_blank" rel="noreferrer" title="PHP"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     </a> 
+     <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" title="Swift">
+    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
+</a>
 </p>
 
 ---
